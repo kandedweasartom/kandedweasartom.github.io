@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /login
+Sitemap:kandedweasartom.github.ioVWY/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioBDI/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioTIL/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioVGI/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioZMX/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioZKO/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioDRY/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioMVF/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioWCZ/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioECK/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioYLI/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioUQL/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioDMU/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioSTP/sitemap_index.txt
+Sitemap:kandedweasartom.github.ioFQM/sitemap_index.txt
